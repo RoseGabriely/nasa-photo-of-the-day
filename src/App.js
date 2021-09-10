@@ -26,7 +26,6 @@ function App() {
       <Title data={data}/>
       <Image data={data}/>
       <Caption data={data}/>
-      
     </div>
   );
 }
